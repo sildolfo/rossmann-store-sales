@@ -3,11 +3,20 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/df1.csv
+/df2.csv
+/df3.csv
+/df4.csv
+/df5.csv
+/df6.csv
+/df9.csv
+/rossmann-store-sales.zip
+
 # C extensions
 *.so
 
 # CSV 
-.csv
+*.csv
 
 # Distribution / packaging
 .Python
@@ -28,7 +37,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-data/interim/*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
